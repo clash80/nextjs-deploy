@@ -9,7 +9,7 @@ const Home: NextPage = () => {
     <div>
       123
       <Link href="starter">
-        <a>starter로 이동</a>
+        <a>starter로 이동 222</a>
       </Link>
     </div>
   );
